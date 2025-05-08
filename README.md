@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Toshiyasu Takahashi
+<h1>Hi 👋, I'm Toshiyasu Takahashi</h1>
+<h3 align="center">Computer Science student of University of Victoria</h4>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
