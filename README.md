@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Toshiyasu Takahashi</h1>
-<h3 align="center">Computer Science student of University of Victoria</h3>
-<h3 align="center">Currently looking for internship oppotunity</h3>
+<h1>Hello and Welcome👋, I'm Toshiyasu Takahashi</h1>
+<h2>Computer Science student of University of Victoria</h3>
+<h3>Currently looking for internship oppotunity</h3>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
